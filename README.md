@@ -25,7 +25,4 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 - Python utilities
 - Demo-safe (no real credentials needed)
 
-Daily open-source contributions since Nov 10, 2025  
-Part of a 90-day sprint → https://github.com/Manjula101/phd-cyber-lab
-
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
