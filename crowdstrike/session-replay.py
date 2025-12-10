@@ -37,7 +37,7 @@ class FalconRTRReplay:
         demo_commands = [
             {"time": "10:00:15", "cmd": "pwd", "output": "/home/user"},
             {"time": "10:00:23", "cmd": "ls -la", "output": "total 48"},
-            {"time": "10:01:05", "cmd": "cat file.txt", "output": "Sensitive data"},
+            {"time": "10:01:05", "cmd": "cat file.txt", "output": "Sensitive"},
         ]
 
         for idx, cmd in enumerate(demo_commands, 1):
