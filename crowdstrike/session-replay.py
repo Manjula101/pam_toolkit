@@ -4,6 +4,7 @@ CrowdStrike Falcon RTR Session Replay – Demo Safe
 Enterprise Security Lab | Manjula Wickramasuriya
 """
 
+
 import os
 import sys
 
@@ -35,7 +36,7 @@ class FalconRTRReplay:
 
         demo_commands = [
             {"time": "10:00:15", "cmd": "pwd", "output": "/home/user"},
-            {"time": "10:00:23", "cmd": "ls -la", "output": "total 48\n..."},
+            {"time": "10:00:23", "cmd": "ls -la", "output": "total 48"},
             {"time": "10:01:05", "cmd": "cat file.txt", "output": "Sensitive data"},
         ]
 
@@ -51,5 +52,8 @@ class FalconRTRReplay:
 if __name__ == "__main__":
     demo = "--demo" in sys.argv or not os.getenv("FALCON_CLIENT_ID")
     replay = FalconRTRReplay(demo_mode=demo)
-    session = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] != "--demo" else "demo-123"
+    if len(sys.argv) > 1 and sys.argv[1] != "--demo":
+        session = sys.argv[1]
+    else:
+        session = "demo-123"
     replay.replay_session(session)
