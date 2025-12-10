@@ -1,4 +1,4 @@
-[![Stargazers](https://img.shields.io/github/stars/Manjula101/pam-toolkit?style=social)](https://github.com/Manjula101/pam-toolkit/stargazers)
+[![Stargazers](https://img.shields.io/github/stars/Manjula101/pam_toolkit?style=social)](https://github.com/Manjula101/pam_toolkit/stargazers)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Manjula101.pam-toolkit)](https://github.com/Manjula101/pam-toolkit)
 [![Release](https://img.shields.io/github/v/release/Manjula101/pam_toolkit?label=Latest%20Release)](https://github.com/Manjula101/pam_toolkit/releases/latest)
 [![CI](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml)
