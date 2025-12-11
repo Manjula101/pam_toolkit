@@ -2,7 +2,6 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Manjula101.pam-toolkit)](https://github.com/Manjula101/pam-toolkit)
 [![Release](https://img.shields.io/github/v/release/Manjula101/pam_toolkit?label=Latest%20Release)](https://github.com/Manjula101/pam_toolkit/releases/latest)
 [![CI](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/Manjula101/pam_toolkit?label=Release)](https://github.com/Manjula101/pam_toolkit/releases)
 # PAM Toolkit — Open-Source Privileged Access Automation
 > Enterprise-grade PAM workflows · Demo-safe · 100% open-source
 
