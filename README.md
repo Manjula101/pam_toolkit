@@ -25,4 +25,19 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 - Python utilities
 - Demo-safe (no real credentials needed)
 
+## Demos
+
+### FortiOS – Auto-block threat feed
+![FortiOS Demo](assets/fortios-demo.gif)
+
+### Teleport – JIT access workflow
+![Teleport Demo](assets/teleport-demo.gif)
+
+### CrowdStrike – Session replay
+![CrowdStrike Demo](assets/crowdstrike-demo.gif)
+
+## Quick-Start Video (2 min)
+[![Quick-Start Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
+
