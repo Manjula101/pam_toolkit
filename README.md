@@ -36,8 +36,5 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 ### CrowdStrike – Session replay
 ![CrowdStrike Demo](assets/crowdstrike-demo.gif)
 
-## Quick-Start Video (2 min)
-[![Quick-Start Video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
 
