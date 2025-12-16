@@ -27,14 +27,14 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 
 ## Demos
 
-### FortiOS – Auto-block threat feed
-![FortiOS Demo](assets/fortios-demo.gif)
+### FortiOS – Threat feed auto-block
+![FortiOS Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/fortios-demo.gif)
 
 ### Teleport – JIT access workflow
-![Teleport Demo](assets/teleport-demo.gif)
+![Teleport Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/teleport-demo.gif)
 
-### CrowdStrike – Session replay (demo mode)
-![Session Replay Demo](assets/session-replay-demo.gif)
+### CrowdStrike – Session replay
+![CrowdStrike Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/crowdstrike-demo.gif)
 
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
 
