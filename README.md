@@ -33,8 +33,8 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 ### Teleport – JIT access workflow
 ![Teleport Demo](assets/teleport-demo.gif)
 
-### CrowdStrike – Session replay
-![CrowdStrike Demo](assets/crowdstrike-demo.gif)
+### CrowdStrike – Session replay (demo mode)
+![Session Replay Demo](assets/session-replay-demo.gif)
 
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
 
