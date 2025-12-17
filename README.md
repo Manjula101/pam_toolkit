@@ -34,7 +34,7 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 ![Teleport Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/teleport-demo.gif)
 
 ### CrowdStrike – Session replay
-![CrowdStrike Demo]![CrowdStrike Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/session-replay-demo.gif)
+![CrowdStrike Demo](https://raw.githubusercontent.com/Manjula101/pam_toolkit/main/assets/session-replay-demo.gif)
 
 #Cybersecurity #OpenSource #PAM #ZeroTrust #Automation
 
