@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/Manjula101/pam_toolkit/discussions
+    about: Please ask questions in Discussions instead of issues.
