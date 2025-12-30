@@ -1,6 +1,7 @@
 [![Discussions](https://img.shields.io/github/discussions/Manjula101/pam_toolkit)](https://github.com/Manjula101/pam_toolkit/discussions)
 [![Wiki](https://img.shields.io/badge/wiki-documentation-blue)](https://github.com/Manjula101/pam_toolkit/wiki)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Manjula101.pam-toolkit)](https://github.com/Manjula101/pam-toolkit)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Manjula101.pam-toolkit)]
+(https://github.com/Manjula101/pam_toolkit)
 [![Release](https://img.shields.io/github/v/release/Manjula101/pam_toolkit?label=Latest%20Release)](https://github.com/Manjula101/pam_toolkit/releases/latest)
 [![CI](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml)
 [![Security](https://img.shields.io/badge/security-responsible%20disclosure-blue)](https://github.com/Manjula101/pam_toolkit/security/policy)
