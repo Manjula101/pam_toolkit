@@ -4,6 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/Manjula101/pam_toolkit?label=Latest%20Release)](https://github.com/Manjula101/pam_toolkit/releases/latest)
 [![CI](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Manjula101/pam_toolkit/actions/workflows/ci.yml)
 [![Security](https://img.shields.io/badge/security-responsible%20disclosure-blue)](https://github.com/Manjula101/pam_toolkit/security/policy)
+[![Showcase](https://img.shields.io/badge/Showcase-90--day%20sprint-blue)]([https://www.linkedin.com/posts/your-linkedin-post-link](https://lk.linkedin.com/in/manjulawickramasuriya))
 [![Stargazers](https://img.shields.io/github/stars/Manjula101/pam_toolkit?style=social)](https://github.com/Manjula101/pam_toolkit/stargazers)
 # PAM Toolkit — Open-Source Privileged Access Automation
 > Enterprise-grade PAM workflows · Demo-safe · 100% open-source
