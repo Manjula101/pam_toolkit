@@ -27,7 +27,7 @@ Zero-standing-privilege automation suite built across CrowdStrike, FortiOS, Jump
 - Ansible playbooks
 - OPA policies
 - Python utilities
-- Demo-safe (no real credentials needed)
+- Demo-safe (no real credentials needed) 
 
 ## Demos
 
